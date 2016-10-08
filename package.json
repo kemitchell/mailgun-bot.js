@@ -13,5 +13,11 @@
     "index.js"
   ],
   "license": "MIT",
-  "repository": "kemitchell/mailgun-bot.js"
+  "repository": "kemitchell/mailgun-bot.js",
+  "devDependencies": {
+    "standard": "^8.3.0"
+  },
+  "scripts": {
+    "lint": "standard"
+  }
 }
